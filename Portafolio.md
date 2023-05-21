@@ -14,7 +14,7 @@
   
 
 *  Tecnico en asesoria comercial.
-*  Lectura rapida.
+*  Sistema inteligente de lectura rapida.
 * Harward (Basico-->componentes de pc y ensamblaje).
 * Dominio de la retorica.
 
@@ -38,7 +38,7 @@
 1. Markdown
 1. HTML
 1. CSS
-1. Javascrit  **(Lo basico)**
+1. Javascrit  **(Basico)**
 1. Python **(En proceso)**
 1. NODE Js **(En proceso)**
 
@@ -59,7 +59,7 @@
 
 ### Links de referencia
 
-#### En un futuro me podran ver mi **portafolio** por medio de este ***link*** :grin: :+1:
+#### En un futuro podran ver mi **portafolio** por medio de este ***link*** :grin: :+1:
 
 [Link-pag-portafolio](https://youtube.com/ "Youtube-->por el momento")
 
@@ -70,7 +70,7 @@
 
 >Establecer objetivos es el primer paso para convertir lo invisible en visible.
 
->Dejate llevar por las mabos de Dios y nunca perderas el rumbo de tu vida.
+>Dejate llevar por las manos de Dios y nunca perderas el rumbo de tu vida.
 
 
 
