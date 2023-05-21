@@ -1,12 +1,22 @@
-## Santiago Comas
+## Santiago Andres Comas Duran
 
-### Junior Developer in progress
-
-
+### Junior Developer in progress :mortar_board:
 
 
-#### Mi nombre es **Santiago Comas** soy junior developer in progress **front-end**,tengo 16 años,vivo en Colombia, mi hobbie es programar, tocar guitarra, me gustan los idiomas y estoy en el proceso de aprendizaje en un curso de ingles, estoy preparandome en programacion con bootcamps,experiencias, videos tutoriales en youtube y estoy dispuesto a seguir aprendiendo y estudiando para alcanzar mis objetivos.
 
+
+#### Mi nombre es **Santiago Comas** soy junior developer in progress **front-end**, tengo 16 años,vivo en Colombia, mi hobbie es programar, tocar guitarra, me gustan los idiomas y estoy en el proceso de aprendizaje en un curso de ingles, estoy preparandome en programacion con bootcamps,experiencias, videos tutoriales en youtube y estoy dispuesto a seguir aprendiendo y estudiando para alcanzar mis objetivos.
+
+***
+
+  **Otros conocimientos:**
+
+  
+
+*  Tecnico en asesoria comercial.
+*  Lectura rapida.
+* Harward (Basico-->componentes de pc y ensamblaje).
+* Dominio de la retorica.
 
 ![Img-developer](ImgRemov.png)
 
@@ -18,7 +28,7 @@
 |:--------:|:------:|:-------:|:--------:|:------:|:---------------------------:|
 |Santiago| 16   | 11°   | Barranquilla | Colombia | Si |
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 ### Lista de conocimiento
 
@@ -65,3 +75,4 @@
 
 
 
+  
