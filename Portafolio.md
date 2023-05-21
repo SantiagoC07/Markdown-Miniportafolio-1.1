@@ -44,26 +44,7 @@
 1. Filmora x
 1. Canva
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Links de referencia
@@ -73,7 +54,13 @@
 [Link-pag-portafolio](https://youtube.com/ "Youtube-->por el momento")
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 
+### Frases motivacionales que quiero compartirte
+
+>Establecer objetivos es el primer paso para convertir lo invisible en visible.
+
+>Dejate llevar por las mabos de Dios y nunca perderas el rumbo de tu vida.
 
 
 
